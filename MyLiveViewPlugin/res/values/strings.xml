@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World!</string>
+    <string name="app_name">MyLiveViewPlugin</string>
+    
+    <string name="pluginname">MyLiveViewPlugin</string>
+    <string name="intent_preferences">jp.gr.java_conf.ulexite.liveview.test.PREFERENCES</string>
+    <string name="intent_service">jp.gr.java_conf.ulexite.liveview.test.MyLiveViewPluginService</string>
+    <string name="application_description">Extends:com.sonyericsson.extras.liveview</string>
+</resources>
